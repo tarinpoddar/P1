@@ -1,5 +1,7 @@
 Name: Tarin Poddar
+
 Email: tarinpoddar27@gmail.com
+
 Harvard ID: 30946944
 
 URL: 
